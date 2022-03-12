@@ -1,8 +1,6 @@
-import os
-import time
+import os, time, requests
 from dhooks import Webhook
 from pystyle import Colors, Colorate
-import requests
 
 
 clear = lambda: os.system('cls')
