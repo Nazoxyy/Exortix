@@ -1,5 +1,4 @@
 import os
-import pyautogui
 import time
 from dhooks import Webhook
 from pystyle import Colors, Colorate
